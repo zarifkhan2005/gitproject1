@@ -1,2 +1,3 @@
 this is feat 1
 this os new feature
+this is from remote conflict
